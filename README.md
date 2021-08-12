@@ -67,10 +67,12 @@ Below are the presentations for the discovered phenomena-1.
 
 ![Dashboard3](Images/Dashboard3.PNG)
 
-- A story is published on the Tableau Public Website.
+- A story is published on the Tableau Public Website. The link is provided below.
+
+[Citibike_Assignment_MQ](https://public.tableau.com/app/profile/mubashira.qari/viz/Citibike_Assignment_MQ/Story1-CitiBikeAnalytics?publish=yes)
+
 
 ![Story1](Images/Story1.PNG)
 
-[Citibike_Assignment_MQ](https://public.tableau.com/app/profile/mubashira.qari/viz/Citibike_Assignment_MQ/Story1-CitiBikeAnalytics?publish=yes)
 
 
