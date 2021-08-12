@@ -61,7 +61,7 @@ Below are the presentations for the discovered phenomena-1.
 
 - A static map for the most popular end stations is created.
 
-![Popular_End_Station](Images\Popular_End_Station.PNG)
+![Popular_End_Station](Images/Popular_End_Station.PNG)
 
 - A dashboard3 is created for all the above projections.
 
